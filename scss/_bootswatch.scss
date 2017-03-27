@@ -3,9 +3,8 @@
 // -----------------------------------------------------
 // @imports
 
-@import "_bootstrap";
 @import "_variables";
-
+@import "_bootstrap";
 
 $web-font-path: "https://fonts.googleapis.com/css?family=Roboto:400,700" !default;
 @import url($web-font-path);
